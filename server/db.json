@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": "9872",
+      "name": "kevin",
+      "email": "kevin@mail.com",
+      "age": "32"
+    },
+    {
+      "id": "101f",
+      "name": "dennis",
+      "email": "dennis@mail.com",
+      "age": "32"
+    },
+    {
+      "id": "3a58",
+      "name": "ika",
+      "email": "ika@mail.com",
+      "age": "27"
+    }
+  ]
+}
